@@ -36,7 +36,7 @@ const MobileNav = () => {
                 className="cursor-pointer"
               />
             </SheetTrigger>
-            // @ts-ignore{" "}
+
             <SheetContent className="sheet-content sm:w-64">
               <>
                 <Image
